@@ -9,10 +9,7 @@ image:
   credit: 
   creditlink: 
 ---
-
-I am an economist at the Federal Reserve Board of Governors in Washington, D.C. I received my Ph.D. in Economics from the University of Maryland, College Park. 
---
-Field of interests: macroeconomics, computational economics and international finance.
+I am an economist at the Federal Reserve Board of Governors in Washington, D.C. I received my Ph.D. in Economics from the University of Maryland, College Park. Field of interests: macroeconomics, computational economics and international finance.
 ---
 
 The views expressed here are my own and do not reflect those of the Board of Governors or the Federal Reserve System.
