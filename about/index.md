@@ -27,3 +27,4 @@ The views expressed here are my own and do not reflect those of the Board of Gov
 * [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
 * Support for Disqus Comments 
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a> 
+-->
