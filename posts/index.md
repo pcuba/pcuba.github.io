@@ -1,5 +1,8 @@
 ---
 layout: post-index
-title: All Posts
+title: Research
 excerpt: "A List of Posts"
+image:
+  feature: sample-image-line.jpg
+
 ---
