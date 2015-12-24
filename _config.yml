@@ -25,9 +25,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Pablo Cuba Borda
+  name: "Pablo Cuba Borda"
   avatar: bio-photo-pcb.jpg
-  bio: "Board of Governors of the Federal Reserve System. Washington D.C. 20551. +1 (202) 912 7887"
+  bio: "Division of International Finance. Board of Governors of the Federal Reserve System. Washington D.C. 20551. +1 (202) 912 7887."
   email: pablo.a.cubaborda@frb.gov
   disqus-shortname:
   twitter: #username
