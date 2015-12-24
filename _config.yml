@@ -1,9 +1,8 @@
 # Site wide configuration
 
-title:            
+title: 
 locale:           en_US
-url:
-
+url: 
 
 # Jekyll configuration
 
@@ -26,7 +25,7 @@ kramdown:
 
 # Site owner
 owner:
-  name: Pablo Cuba Borda
+  name: 
   avatar: bio-photo-pcb.jpg
   bio: ""
   email: pcubaborda@gmail.com

@@ -32,6 +32,7 @@
   <div class="article-author-side">
     {% include _author-bio.html %}
   </div>
+  <!-- This will create and index of recent posts-->
   <div id="index">
     <h3><a href="{{ site.url}}/posts/">Recent Working Papers</a></h3>
     {% for post in site.posts limit:3 %}
