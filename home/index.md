@@ -1,7 +1,7 @@
 ---
  layout: page
- title: Welcome
- tags: [about, Jekyll, theme, responsive]
+ title: Welcome to my personal page
+ tags: [about]
  modified: 2014-08-08T20:53:07.573882-04:00
  comments: 
  image:
@@ -9,10 +9,10 @@
    credit: 
    creditlink: 
 ---
-I am an economist at the Federal Reserve Board of Governors in Washington, D.C. I received my Ph.D. in Economics from the University of Maryland, College Park. 
+I am an economist at the Federal Reserve Board of Governors in Washington, D.C.
 
 ---
-My field of interests are macroeconomics, computational economics and international finance.
+My fields of interests are macroeconomics, computational economics and international finance.
 
 ---
 

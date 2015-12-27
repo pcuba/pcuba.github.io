@@ -16,7 +16,7 @@ body {
 	@include container;
 	padding: 1em 0 1em;
 	font-family: $heading-font;
-	font-weight: 700;
+	font-weight: 900;
 	text-transform: uppercase;
 	@include clearfix;
 }
@@ -43,11 +43,12 @@ body {
 }
 
 /* Top navigation links */
+/* This allows to adjust the navigation links on top of the page */
 .top-navigation {
 	@include grid(12,10);
 	@include prefix(12,1);
-	@include suffix(12,1);
-	margin-bottom: 1em;
+	@include suffix(12, 1);
+	margin-bottom: 0em;
 	float: none;
 	display: block;
 	@media #{$small} {
