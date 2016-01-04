@@ -1,6 +1,6 @@
 ---
  layout: page
- title: Welcome to my personal page
+ title: Pablo Cuba-Borda
  tags: [about]
  modified: 2014-08-08T20:53:07.573882-04:00
  comments: 
@@ -9,7 +9,7 @@
    credit: 
    creditlink: 
 ---
-I am an economist at the Federal Reserve Board of Governors in Washington, D.C.
+Welcome to my personal page. I am an economist at the Federal Reserve Board of Governors in Washington, D.C.
 
 ---
 My fields of interests are macroeconomics, computational economics and international finance.
