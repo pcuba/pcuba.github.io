@@ -70,8 +70,13 @@
         {% if post.link %}
           <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
         {% else %}
-          <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-          <p>{{ post.excerpt }}</p>
+          {% if post.newver %}
+            <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title}} <font color="#B40404">[ New <i class="fa fa-exclamation-circle fa-fw"></i>]</font></a></h2> 
+            <p>{{ post.excerpt }}</p>             
+          {% else %}
+            <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+            <p>{{ post.excerpt }}</p>
+          {% endif %}
         {% endif %}
       </article>
     {% endfor %}
