@@ -4,7 +4,7 @@ title: "Macroeconomic Dynamics Near the ZLB: A Tale of Two Countries"
 modified:
 categories: wp
 newver: yes
-excerpt: <b>(With <a href="http://aruoba.econ.umd.edu"> B. Aruoba </a> and <a href="http://sites.sas.upenn.edu/schorf"> F. Schorfheide</a></b>). We study sunspot equilibrium in a New Keynesian model subject to the ZLB constraint and explore its implications for the U.S. and Japan.
+excerpt: <b>(With <a href="http://aruoba.econ.umd.edu"> B. Aruoba </a> and <a href="http://sites.sas.upenn.edu/schorf"> F. Schorfheide</a></b>). We compute a sunspot equilibrium in a New Keynesian model subject to the ZLB constraint and explore its implications for the U.S. and Japan.
 tags: []
 image:
   feature: sample-image-line.jpg
