@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: 
+title:
 locale:           en_US
-url: 
+url:
 
 # Jekyll configuration
-
+excerpt_separator: "<!--more-->"
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: pygmentize
@@ -15,12 +15,42 @@ sass:
 gems:
   - jekyll-sitemap
   - jekyll-email-protect
+  - jekyll/scholar
 kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
+
+# Scholar configuration
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: none
+  bibliography_list_tag: none
+
+  group_by: none
+  group_order: descending
+
+  source: ./_bibliography
+  bibliography: references.bib
+  bibliography_template: bib
+
+  replace_strings: true
+  join_strings:    true
+
+  use_raw_bibtex_entry: true
+  bibtex_filters:
+  - superscript
+  - latex
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
 
 
 # Site owner
