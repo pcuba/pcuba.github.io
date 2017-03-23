@@ -2,8 +2,7 @@
 
 title:
 locale:           en_US
-baseurl: ""
-url: "http://pcubaborda.net"
+url:
 
 # Jekyll configuration
 excerpt_separator: "<!--more-->"
