@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: Home
+  url: /home/
+  
+# - title: Codes
+#  url: /mycodes/
+
+- title: Research
+  url: /posts/
+
+- title: CV
+  url: /documents/CV_Pablo_Cuba.pdf
