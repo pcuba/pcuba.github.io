@@ -3,7 +3,7 @@ layout: post
 title: "Macroeconomic Dynamics Near the ZLB: A Tale of Two Countries"
 modified:
 categories: published
-excerpt: <a href="http://aruoba.econ.umd.edu"> Aruoba, Boragan</a>, Cuba-Borda Pablo, and <a href="http://sites.sas.upenn.edu/schorf"> Schorfheide Frank </a>. <i>Review of Economic Studies. (Forthcoming)</i>.
+excerpt: <a href="http://aruoba.econ.umd.edu"> Aruoba, Boragan</a>, Cuba-Borda Pablo, and <a href="http://sites.sas.upenn.edu/schorf"> Schorfheide Frank</a>. <i>Review of Economic Studies. (Forthcoming)</i>.
 tags: []
 image:
   feature: sample-image-line.jpg
