@@ -6,4 +6,4 @@ image:
   feature: sample-image-line.jpg
 ---
 
-{% bibliography -q @article %}
+<!-- {% bibliography -q @article %} -->
