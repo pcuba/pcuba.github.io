@@ -16,6 +16,3 @@ We compute a sunspot equilibrium in an estimated small-scale New Keynesian model
 
 Link to [local copy](/documents/ACS-zlb-v4.pdf). Replication code [<i>Coming soon</i>]
 {: .notice}
-
-<!-- #### Citation:
-{% bibliography ACS2017 %} -->
