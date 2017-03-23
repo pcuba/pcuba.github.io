@@ -1,0 +1,92 @@
+# Site wide configuration
+
+title:
+locale:           en_US
+url:
+
+# Jekyll configuration
+excerpt_separator: "<!--more-->"
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygmentize
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+  - jekyll-email-protect
+  - jekyll/scholar
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+# Scholar configuration
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: none
+  bibliography_list_tag: none
+
+  group_by: none
+  group_order: descending
+
+  source: ./_bibliography
+  bibliography: references.bib
+  bibliography_template: bib
+
+  replace_strings: true
+  join_strings:    true
+
+  use_raw_bibtex_entry: true
+  bibtex_filters:
+  - superscript
+  - latex
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
+
+
+# Site owner
+owner:
+  name: "Pablo Cuba-Borda"
+  contact: "Contact information:"
+  avatar: bio-photo-pcb.jpg
+  bio: "Division of International Finance. Board of Governors of the Federal Reserve System. Washington, D.C. 20551."
+  email: pablo.a.cubaborda@frb.gov
+  phone: "+1-202-912-7887"
+  disqus-shortname:
+  twitter: #username
+  facebook: #username
+  google:
+    plus: #username
+    analytics: UA-57283241-2
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: pcuba
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
