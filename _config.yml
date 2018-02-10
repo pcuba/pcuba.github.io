@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title:
-locale:           en_US
+title: Personal Website
+locale: en_US
 url:
 
 # Jekyll configuration
