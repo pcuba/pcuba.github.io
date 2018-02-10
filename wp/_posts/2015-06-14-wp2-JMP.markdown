@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Explains the Great Recession and Slow Recovery?
+title: What Explains the Great Recession and Slow Recovery? 
 modified:
 categories: wp
 excerpt: This paper explores the role of several shocks in accounting for the decline in economic activity during the U.S. Great Recession.

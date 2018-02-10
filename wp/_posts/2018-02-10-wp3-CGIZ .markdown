@@ -1,0 +1,19 @@
+---
+layout: post
+title: Likelihood Evaluation of Models with Occasionally Binding Constraints.
+modified:
+categories: wp
+excerpt: Joint with <a href="lguerrieri.com">Luca Guerrieri (FRB), <a href="https://www2.bc.edu/matteo-iacoviello/"> Matteo Iacoviello (FRB) and Molin Zhong (FRB) <a href="https://sites.google.com/site/molinzhong/">.<br/> <br/> We evaluate the role of model solution and likelihood approximation affect parameter inference in the presence of ocassionally binding constraints in DSGE models.
+tags: []
+link:
+image:
+  feature: sample-image-line.jpg
+date: 2015-06-14T15:18:40-04:00
+---
+#### With [Luca Guerrieri](http://lguerrieri.com), [Matteo Iacoviello](https://www2.bc.edu/matteo-iacoviello/) and [Molin Zhong](https://sites.google.com/site/molinzhong/)
+
+Applied researchers often need to estimate key parameters of DSGE models. Except in a handful of special cases, both the solution and the estimation step will require the use of numerical approximation techniques that introduce additional sources of error between the “true” value of the parameter and its actual estimate. In this paper, we focus on likelihood evaluation of models with occasionally binding constraints. We highlight how solution approximation errors and errors in specifying the likelihood function interact in ways that can compound each other.
+
+
+Link to [local copy](/documents/cuba-borda-guerrieri.pdf) version.
+{: .notice}

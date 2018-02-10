@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2017-03-30T09:00:50-04:00</updated>
+<updated>2018-02-10T01:16:15-05:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Pablo Cuba-Borda</name>
@@ -32,6 +32,29 @@
 &lt;p class=&quot;notice&quot;&gt;Link to &lt;a href=&quot;http://www.restud.com/paper/macroeconomic-dynamics-near-the-zlb-a-tale-of-two-countries/&quot;&gt;paper&lt;/a&gt;. Replication &lt;a href=&quot;https://github.com/pcuba/ACS_RESTUD_2017&quot;&gt;code&lt;/a&gt;&lt;/p&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://localhost:4000/published/published-acs/&quot;&gt;Macroeconomic Dynamics Near the ZLB: A Tale of Two Countries&lt;/a&gt; was originally published by Pablo Cuba-Borda at &lt;a href=&quot;http://localhost:4000&quot;&gt;&lt;/a&gt; on March 22, 2017.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Likelihood Evaluation of Models with Occasionally Binding Constraints.]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/wp/wp3-CGIZ/" />
+  <id>http://localhost:4000/wp/wp3-CGIZ </id>
+  <published>2015-06-14T15:18:40-04:00</published>
+  <updated>2015-06-14T15:18:40-04:00</updated>
+  <author>
+    <name>Pablo Cuba-Borda</name>
+    <uri>http://localhost:4000</uri>
+    <email>pablo.a.cubaborda@frb.gov</email>
+  </author>
+  <content type="html">
+    &lt;h4 id=&quot;with-luca-guerrieri-matteo-iacoviello-and-molin-zhong&quot;&gt;With &lt;a href=&quot;http://lguerrieri.com&quot;&gt;Luca Guerrieri&lt;/a&gt;, &lt;a href=&quot;https://www2.bc.edu/matteo-iacoviello/&quot;&gt;Matteo Iacoviello&lt;/a&gt; and &lt;a href=&quot;https://sites.google.com/site/molinzhong/&quot;&gt;Molin Zhong&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Applied researchers often need to estimate key parameters of DSGE models. Except in a handful of special cases, both the solution and the estimation step will require the use of numerical approximation techniques that introduce additional sources of error between the “true” value of the parameter and its actual estimate. In this paper, we focus on likelihood evaluation of models with occasionally binding constraints. We highlight how solution approximation errors and errors in specifying the likelihood function interact in ways that can compound each other.&lt;/p&gt;
+
+&lt;p class=&quot;notice&quot;&gt;Link to &lt;a href=&quot;/documents/cuba-borda-guerrieri.pdf&quot;&gt;local copy&lt;/a&gt; version.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/wp/wp3-CGIZ/&quot;&gt;Likelihood Evaluation of Models with Occasionally Binding Constraints.&lt;/a&gt; was originally published by Pablo Cuba-Borda at &lt;a href=&quot;http://localhost:4000&quot;&gt;&lt;/a&gt; on June 14, 2015.&lt;/p&gt;
   </content>
 </entry>
 
