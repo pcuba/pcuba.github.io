@@ -3,7 +3,7 @@ layout: post
 title: "Macroeconomic Dynamics Near the ZLB: A Tale of Two Countries"
 modified:
 categories: published
-excerpt: Joint with <a href="http://aruoba.econ.umd.edu"> Boragan, Aruoba (Maryland)</a> and <a href="http://sites.sas.upenn.edu/schorf">Frank Schorfheide (UPenn)</a>. <i>Review of Economic Studies, 85 (1), January 2018</i>.
+excerpt: Joint with <a href="http://aruoba.econ.umd.edu"> Bora&#x11F;an Aruoba (Maryland)</a> and <a href="http://sites.sas.upenn.edu/schorf">Frank Schorfheide (UPenn)</a>. <i>Review of Economic Studies, 85 (1), January 2018</i>.
 tags: []
 image:
   feature: sample-image-line.jpg
