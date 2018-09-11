@@ -12,7 +12,7 @@ date: 2018-08-15T00:18:40-04:00
 ---
 #### With [Sanjay R. Singh (UC Davis)](https://sites.google.com/a/brown.edu/sanjaysingh/)
 
-We theoretically explore issues of long-run stagnation in a representative agent framework and compare expectations-driven stagnation to a secular stagnation episode.
+We theoretically explore issues of long-run stagnation in a representative agent framework and compare expectations-driven stagnation to a secular stagnation episode. This contrast provides novel policy implications. Our findings extend to a quantitative DSGE model in which we reassess Japan's experience from a prolonged liquidity trap.
 
 Link to [local copy](/documents/Draft_EFStag_CS.pdf) version. First version: August 2018.
 {: .notice}
