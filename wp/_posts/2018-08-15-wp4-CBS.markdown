@@ -1,0 +1,18 @@
+---
+layout: post
+title: Understanding Persistent Stagnation.
+modified:
+categories: wp
+excerpt: Joint with <a href="https://sites.google.com/a/brown.edu/sanjaysingh/"> Sanjay R. Singh (UC Davis)</a>. <i>This version&#58 August 2018</i>
+tags: []
+link:
+image:
+  feature: sample-image-line.jpg
+date: 2018-08-15T00:18:40-04:00
+---
+#### With [Sanjay R. Singh (UC Davis)](https://sites.google.com/a/brown.edu/sanjaysingh/)
+
+We theoretically explore issues of long-run stagnation in a representative agent framework and compare expectations-driven stagnation to a secular stagnation episode.
+
+Link to [local copy](/documents/Draft_EFStag_CS.pdf) version. First version: August 2018.
+{: .notice}
