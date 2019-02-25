@@ -12,7 +12,7 @@ date: 2018-08-15T00:18:40-04:00
 ---
 #### With [Sanjay R. Singh (UC Davis)](https://sites.google.com/a/brown.edu/sanjaysingh/)
 
-The fear of persistent stagnation has never been greater in advanced economies as central banks continue to struggle with near-zero interest rates and low inflation. We theoretically explore issues of long-run stagnation in a representative agent framework. We analytically compare expectations-driven stagnation to a secular stagnation episode, and find contrasting policy implications for increase in government spending, nominal interest rates and positive supply shocks. For example, government spending is expansionary during secular stagnation but contractionary in an expectations-driven trap. In an estimated DSGE model, we find that Japan's prolonged stagnation could be explained by both hypothesis, but the transmission of shocks differs markedly.
+We theoretically explore long-run stagnation at the zero lower bound in a representative agent framework. We analytically compare expectations-driven stagnation to a secular stagnation episode and find contrasting policy implications for changes in government spending, supply shocks and neo-Fisherian policies. On the other hand, a minimum wage policy is expansionary and robust to the source of stagnation. Using Bayesian methods, we estimate a DSGE model that can accommodate two competing hypotheses of long-run stagnation in Japan. We document that equilibrium selection under indeterminacy matters in accounting for model fit.
 
-Updated draft coming soon.
+New version coming soon.
 {: .notice}
