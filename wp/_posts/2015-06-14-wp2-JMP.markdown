@@ -10,14 +10,9 @@ image:
   feature: sample-image-line.jpg
 date: 2015-06-14T15:18:40-04:00
 ---
-
-This paper studies aggregate dynamics near the zero lower bound (ZLB) of nominal interest rates in a medium-scale New Keynesian model
-with capital. I solve a quantitatively realistic model of the U.S. economy with a ZLB constraint and use Sequential Monte Carlo
-methods to uncover the shocks that pushed the U.S. economy to the ZLB during the Great Recession. I investigate the interaction between
-shocks and frictions in generating the contraction of output, consumption and investment during 2008:Q3- 2013:Q4 and find that a combination
-of shocks to the marginal efficiency of investment and to households' discount factor generated the prolonged liquidity trap observed in this period.
-A comparison between these two sources suggests that investment shocks played a more important role during this period. Fiscal and monetary policy stimulus
-help explain why the U.S. did not fall into a deflationary spiral despite a binding zero bound.
+<p style="text-align:justify">
+This paper studies aggregate dynamics near the zero lower bound (ZLB) of nominal interest rates in a medium-scale New Keynesian model with capital. I solve a quantitatively realistic model of the U.S. economy with a ZLB constraint and use Sequential Monte Carlo methods to uncover the shocks that pushed the U.S. economy to the ZLB during the Great Recession. I investigate the interaction between shocks and frictions in generating the contraction of output, consumption and investment during 2008:Q3- 2013:Q4 and find that a combination
+of shocks to the marginal efficiency of investment and to households' discount factor generated the prolonged liquidity trap observed in this period. A comparison between these two sources suggests that investment shocks played a more important role during this period. Fiscal and monetary policy stimulus help explain why the U.S. did not fall into a deflationary spiral despite a binding zero bound. </p>
 
 Link to [local copy](/documents/PCB_GreatRecession_June2015.pdf) version.
 {: .notice}

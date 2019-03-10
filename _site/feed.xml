@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2019-03-09T21:41:41-05:00</updated>
+<updated>2019-03-10T13:59:51-04:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Pablo Cuba-Borda</name>
@@ -26,11 +26,10 @@
   </author>
   <content type="html">
     &lt;h4 id=&quot;with-sanjay-r-singh-uc-davis&quot;&gt;With &lt;a href=&quot;https://sites.google.com/a/brown.edu/sanjaysingh/&quot;&gt;Sanjay R. Singh (UC Davis)&lt;/a&gt;&lt;/h4&gt;
+&lt;p style=&quot;text-align:justify&quot; class=&quot;text-justify&quot;&gt;
+We theoretically explore long-run stagnation at the zero lower bound in a representative agent framework. We analytically compare expectations-driven stagnation to a secular stagnation episode and find contrasting policy implications for changes in government spending, supply shocks and neo-Fisherian policies. On the other hand, a minimum wage policy is expansionary and robust to the source of stagnation. Using Bayesian methods, we estimate a DSGE model that can accommodate two competing hypotheses of long-run stagnation in Japan. We document that equilibrium selection under indeterminacy matters in accounting for model fit.&lt;/p&gt;
 
-&lt;p class=&quot;text-justify&quot;&gt;We theoretically explore long-run stagnation at the zero lower bound in a representative agent framework. We analytically compare expectations-driven stagnation to a secular stagnation episode and find contrasting policy implications for changes in government spending, supply shocks and neo-Fisherian policies. On the other hand, a minimum wage policy is expansionary and robust to the source of stagnation. Using Bayesian methods, we estimate a DSGE model that can accommodate two competing hypotheses of long-run stagnation in Japan. We document that equilibrium selection under indeterminacy matters in accounting for model fit.&lt;/p&gt;
-
-&lt;p class=&quot;notice&quot;&gt;Link to &lt;a href=&quot;/documents/Draft_EFStag_CS.pdf&quot;&gt;local copy&lt;/a&gt;. First version: August 2018. This version: February 2019.
-Link to &lt;a href=&quot;https://doi.org/10.17016/IFDP.2019.1243&quot;&gt;International Finance Discussion Papers 1243.&lt;/a&gt;.&lt;/p&gt;
+&lt;p class=&quot;notice&quot;&gt;Link to &lt;a href=&quot;/documents/Draft_EFStag_CS.pdf&quot;&gt;local copy&lt;/a&gt;. First version: August 2018. This version: February 2019.&lt;br /&gt;Link to &lt;a href=&quot;https://doi.org/10.17016/IFDP.2019.1243&quot;&gt;International Finance Discussion Papers 1243&lt;/a&gt;.&lt;/p&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://localhost:4000/wp/wp4-CBS/&quot;&gt;Understanding Persistent Stagnation.&lt;/a&gt; was originally published by Pablo Cuba-Borda at &lt;a href=&quot;http://localhost:4000&quot;&gt;Personal Website&lt;/a&gt; on August 15, 2018.&lt;/p&gt;
   </content>
@@ -51,7 +50,8 @@ Link to &lt;a href=&quot;https://doi.org/10.17016/IFDP.2019.1243&quot;&gt;Intern
   <content type="html">
     &lt;h4 id=&quot;with-luca-guerrieri-frb-matteo-iacoviello-frb-and-molin-zhong-frb&quot;&gt;With &lt;a href=&quot;http://lguerrieri.com&quot;&gt;Luca Guerrieri (FRB)&lt;/a&gt;, &lt;a href=&quot;https://www2.bc.edu/matteo-iacoviello/&quot;&gt;Matteo Iacoviello (FRB)&lt;/a&gt; and &lt;a href=&quot;https://sites.google.com/site/molinzhong/&quot;&gt;Molin Zhong (FRB)&lt;/a&gt;&lt;/h4&gt;
 
-&lt;p class=&quot;text-justify&quot;&gt;Applied researchers often need to estimate key parameters of DSGE models. Except in a handful of special cases, both the solution and the estimation step will require the use of numerical approximation techniques that introduce additional sources of error between the “true” value of the parameter and its actual estimate. In this paper, we focus on likelihood evaluation of models with occasionally binding constraints. We highlight how solution approximation errors and errors in specifying the likelihood function interact in ways that can compound each other.&lt;/p&gt;
+&lt;p style=&quot;text-align:justify&quot; class=&quot;text-justify&quot;&gt;
+Applied researchers often need to estimate key parameters of DSGE models. Except in a handful of special cases, both the solution and the estimation step will require the use of numerical approximation techniques that introduce additional sources of error between the “true” value of the parameter and its actual estimate. In this paper, we focus on likelihood evaluation of models with occasionally binding constraints. We highlight how solution approximation errors and errors in specifying the likelihood function interact in ways that can compound each other.&lt;/p&gt;
 
 &lt;p class=&quot;notice&quot;&gt;Link to &lt;a href=&quot;/documents/cuba-borda-guerrieri.pdf&quot;&gt;local copy&lt;/a&gt; version. First version: December 2017.&lt;/p&gt;
 
@@ -74,7 +74,8 @@ Link to &lt;a href=&quot;https://doi.org/10.17016/IFDP.2019.1243&quot;&gt;Intern
   <content type="html">
     &lt;h4 id=&quot;with-borağan-aruoba-maryland-and-frank-schorfheide-upenn&quot;&gt;With &lt;a href=&quot;http://aruoba.econ.umd.edu/&quot;&gt;Borağan Aruoba (Maryland)&lt;/a&gt; and &lt;a href=&quot;http://sites.sas.upenn.edu/schorf&quot;&gt;Frank Schorfheide (UPenn)&lt;/a&gt;&lt;/h4&gt;
 
-&lt;p class=&quot;text-justify&quot;&gt;We compute a sunspot equilibrium in an estimated small-scale New Keynesian model with a zero lower bound (ZLB) constraint on nominal interest rates and a full set of stochastic fundamental shocks. In this equilibrium a sunspot shock can move the economy from a regime in which inflation is close to the central bank’s target to a regime in which the central bank misses its target, inflation rates are negative, and interest rates are close to zero with high probability. A nonlinear filter is used to examine whether the U.S. in the aftermath of the Great Recession and Japan in the late 1990s transitioned to a deflation regime. The results are somewhat sensitive to the model specification, but on balance, the answer is affirmative for Japan and negative for the U.S.&lt;/p&gt;
+&lt;p style=&quot;text-align:justify&quot; class=&quot;text-justify&quot;&gt;
+We compute a sunspot equilibrium in an estimated small-scale New Keynesian model with a zero lower bound (ZLB) constraint on nominal interest rates and a full set of stochastic fundamental shocks. In this equilibrium a sunspot shock can move the economy from a regime in which inflation is close to the central bank’s target to a regime in which the central bank misses its target, inflation rates are negative, and interest rates are close to zero with high probability. A nonlinear filter is used to examine whether the U.S. in the aftermath of the Great Recession and Japan in the late 1990s transitioned to a deflation regime. The results are somewhat sensitive to the model specification, but on balance, the answer is affirmative for Japan and negative for the U.S.&lt;/p&gt;
 
 &lt;p class=&quot;notice&quot;&gt;Link to &lt;a href=&quot;https://doi.org/10.1093/restud/rdx027&quot;&gt;paper&lt;/a&gt;.
 Link to &lt;a href=&quot;/documents/ACS-zlb-v4.pdf&quot;&gt;local copy&lt;/a&gt;.
@@ -97,13 +98,9 @@ Replication &lt;a href=&quot;https://github.com/pcuba/ACS_RESTUD_2017&quot;&gt;c
     <email>pablo.a.cubaborda@frb.gov</email>
   </author>
   <content type="html">
-    &lt;p&gt;This paper studies aggregate dynamics near the zero lower bound (ZLB) of nominal interest rates in a medium-scale New Keynesian model
-with capital. I solve a quantitatively realistic model of the U.S. economy with a ZLB constraint and use Sequential Monte Carlo
-methods to uncover the shocks that pushed the U.S. economy to the ZLB during the Great Recession. I investigate the interaction between
-shocks and frictions in generating the contraction of output, consumption and investment during 2008:Q3- 2013:Q4 and find that a combination
-of shocks to the marginal efficiency of investment and to households’ discount factor generated the prolonged liquidity trap observed in this period.
-A comparison between these two sources suggests that investment shocks played a more important role during this period. Fiscal and monetary policy stimulus
-help explain why the U.S. did not fall into a deflationary spiral despite a binding zero bound.&lt;/p&gt;
+    &lt;p style=&quot;text-align:justify&quot;&gt;
+This paper studies aggregate dynamics near the zero lower bound (ZLB) of nominal interest rates in a medium-scale New Keynesian model with capital. I solve a quantitatively realistic model of the U.S. economy with a ZLB constraint and use Sequential Monte Carlo methods to uncover the shocks that pushed the U.S. economy to the ZLB during the Great Recession. I investigate the interaction between shocks and frictions in generating the contraction of output, consumption and investment during 2008:Q3- 2013:Q4 and find that a combination
+of shocks to the marginal efficiency of investment and to households' discount factor generated the prolonged liquidity trap observed in this period. A comparison between these two sources suggests that investment shocks played a more important role during this period. Fiscal and monetary policy stimulus help explain why the U.S. did not fall into a deflationary spiral despite a binding zero bound. &lt;/p&gt;
 
 &lt;p class=&quot;notice&quot;&gt;Link to &lt;a href=&quot;/documents/PCB_GreatRecession_June2015.pdf&quot;&gt;local copy&lt;/a&gt; version.&lt;/p&gt;
 
