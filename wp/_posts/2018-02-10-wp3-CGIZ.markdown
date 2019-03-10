@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Likelihood Evaluation of Models with Occasionally Binding Constraints.
+title: Likelihood Evaluation of Models with Occasionally Binding Constraints
 modified:
 categories: wp
 excerpt: Joint with <a href="http://lguerrieri.com"> Luca Guerrieri (FRB)</a>, <a href="https://www2.bc.edu/matteo-iacoviello/"> Matteo Iacoviello (FRB)</a> and <a href="https://sites.google.com/site/molinzhong/"> Molin Zhong (FRB)</a>. <i>This version&#58 December 2017</i>

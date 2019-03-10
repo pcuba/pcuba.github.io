@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding Persistent Stagnation.
+title: Understanding Persistent Stagnation
 modified:
 categories: wp
 excerpt: Joint with <a href="https://sites.google.com/a/brown.edu/sanjaysingh/"> Sanjay R. Singh (UC Davis)</a>. <i>This version&#58 February 2019</i>
