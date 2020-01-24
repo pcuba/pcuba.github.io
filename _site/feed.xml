@@ -4,48 +4,49 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2019-03-10T13:59:51-04:00</updated>
+<updated>2020-01-24T00:31:00-05:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Pablo Cuba-Borda</name>
   <uri>http://localhost:4000/</uri>
-  <email>pablo.a.cubaborda@frb.gov</email>
+  <email>pablo.a.cubaborda[at]frb.gov</email>
 </author>
 
 
 <entry>
-  <title type="html"><![CDATA[Understanding Persistent Stagnation.]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/wp/wp4-CBS/" />
-  <id>http://localhost:4000/wp/wp4-CBS</id>
-  <published>2018-08-15T00:18:40-04:00</published>
-  <updated>2018-08-15T00:18:40-04:00</updated>
+  <title type="html"><![CDATA[Piecewise-Linear Approximations and Filtering for DSGE Models with Occasionally-Binding Constraints]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/wp/wp5-ACS2/" />
+  <id>http://localhost:4000/wp/wp5-ACS2</id>
+  <published>2020-01-14T23:18:40-05:00</published>
+  <updated>2020-01-14T23:18:40-05:00</updated>
   <author>
     <name>Pablo Cuba-Borda</name>
     <uri>http://localhost:4000</uri>
-    <email>pablo.a.cubaborda@frb.gov</email>
+    <email>pablo.a.cubaborda[at]frb.gov</email>
   </author>
   <content type="html">
-    &lt;h4 id=&quot;with-sanjay-r-singh-uc-davis&quot;&gt;With &lt;a href=&quot;https://sites.google.com/a/brown.edu/sanjaysingh/&quot;&gt;Sanjay R. Singh (UC Davis)&lt;/a&gt;&lt;/h4&gt;
+    &lt;h4 id=&quot;with-borağan-aruoba-maryland-kenji-higa-flores-maryland-frank-schorfheide-upenn-and-sergio-villalvazo-upenn&quot;&gt;With &lt;a href=&quot;http://aruoba.econ.umd.edu/&quot;&gt;Borağan Aruoba (Maryland)&lt;/a&gt;, Kenji Higa-Flores (Maryland), &lt;a href=&quot;http://sites.sas.upenn.edu/schorf&quot;&gt;Frank Schorfheide (UPenn)&lt;/a&gt; and Sergio Villalvazo (UPenn).&lt;/h4&gt;
+
 &lt;p style=&quot;text-align:justify&quot; class=&quot;text-justify&quot;&gt;
-We theoretically explore long-run stagnation at the zero lower bound in a representative agent framework. We analytically compare expectations-driven stagnation to a secular stagnation episode and find contrasting policy implications for changes in government spending, supply shocks and neo-Fisherian policies. On the other hand, a minimum wage policy is expansionary and robust to the source of stagnation. Using Bayesian methods, we estimate a DSGE model that can accommodate two competing hypotheses of long-run stagnation in Japan. We document that equilibrium selection under indeterminacy matters in accounting for model fit.&lt;/p&gt;
+We develop an algorithm to construct approximate decision rules that are piecewise- linear and continuous for DSGE models with an occasionally-binding constraint. The functional form of the decision rules allows us to derive a conditionally-optimal particle filter (COPF) for the evaluation of the likelihood function that exploits the structure of the solution. We document the accuracy of the likelihood approximation and embed it into a particle Markov chain Monte Carlo algorithm to conduct Bayesian estimation. Compared to a standard bootstrap particle filter, the COPF significantly reduces the persistence of the Markov chain, improves the accuracy of Monte Carlo approximations of posterior moments, and drastically speeds up computations. We use the techniques to estimate a small-scale DSGE model to assess the effects of the government spending portion of the American Recovery and Reinvestment Act in 2009 when interest rates reached the zero lower bound.&lt;/p&gt;
 
-&lt;p class=&quot;notice&quot;&gt;Link to &lt;a href=&quot;/documents/Draft_EFStag_CS.pdf&quot;&gt;local copy&lt;/a&gt;. First version: August 2018. This version: February 2019.&lt;br /&gt;Link to &lt;a href=&quot;https://doi.org/10.17016/IFDP.2019.1243&quot;&gt;International Finance Discussion Papers 1243&lt;/a&gt;.&lt;/p&gt;
+&lt;p class=&quot;notice&quot;&gt;Link to &lt;a href=&quot;/documents/ACS-PLC-v5.pdf&quot;&gt;local copy&lt;/a&gt;. First version: January 2020.&lt;br /&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/wp/wp4-CBS/&quot;&gt;Understanding Persistent Stagnation.&lt;/a&gt; was originally published by Pablo Cuba-Borda at &lt;a href=&quot;http://localhost:4000&quot;&gt;Personal Website&lt;/a&gt; on August 15, 2018.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/wp/wp5-ACS2/&quot;&gt;Piecewise-Linear Approximations and Filtering for DSGE Models with Occasionally-Binding Constraints&lt;/a&gt; was originally published by Pablo Cuba-Borda at &lt;a href=&quot;http://localhost:4000&quot;&gt;Personal Website&lt;/a&gt; on January 15, 2020.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
-  <title type="html"><![CDATA[Likelihood Evaluation of Models with Occasionally Binding Constraints.]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/wp/wp3-CGIZ/" />
-  <id>http://localhost:4000/wp/wp3-CGIZ</id>
-  <published>2018-02-09T23:18:40-05:00</published>
-  <updated>2018-02-09T23:18:40-05:00</updated>
+  <title type="html"><![CDATA[Likelihood Evaluation of Models with Occasionally Binding Constraints]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/published/published-CGIZ/" />
+  <id>http://localhost:4000/published/published-CGIZ</id>
+  <published>2019-03-09T23:18:40-05:00</published>
+  <updated>2019-03-09T23:18:40-05:00</updated>
   <author>
     <name>Pablo Cuba-Borda</name>
     <uri>http://localhost:4000</uri>
-    <email>pablo.a.cubaborda@frb.gov</email>
+    <email>pablo.a.cubaborda[at]frb.gov</email>
   </author>
   <content type="html">
     &lt;h4 id=&quot;with-luca-guerrieri-frb-matteo-iacoviello-frb-and-molin-zhong-frb&quot;&gt;With &lt;a href=&quot;http://lguerrieri.com&quot;&gt;Luca Guerrieri (FRB)&lt;/a&gt;, &lt;a href=&quot;https://www2.bc.edu/matteo-iacoviello/&quot;&gt;Matteo Iacoviello (FRB)&lt;/a&gt; and &lt;a href=&quot;https://sites.google.com/site/molinzhong/&quot;&gt;Molin Zhong (FRB)&lt;/a&gt;&lt;/h4&gt;
@@ -55,7 +56,30 @@ Applied researchers often need to estimate key parameters of DSGE models. Except
 
 &lt;p class=&quot;notice&quot;&gt;Link to &lt;a href=&quot;/documents/cuba-borda-guerrieri.pdf&quot;&gt;local copy&lt;/a&gt; version. First version: December 2017.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/wp/wp3-CGIZ/&quot;&gt;Likelihood Evaluation of Models with Occasionally Binding Constraints.&lt;/a&gt; was originally published by Pablo Cuba-Borda at &lt;a href=&quot;http://localhost:4000&quot;&gt;Personal Website&lt;/a&gt; on February 10, 2018.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/published/published-CGIZ/&quot;&gt;Likelihood Evaluation of Models with Occasionally Binding Constraints&lt;/a&gt; was originally published by Pablo Cuba-Borda at &lt;a href=&quot;http://localhost:4000&quot;&gt;Personal Website&lt;/a&gt; on March 10, 2019.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Understanding Persistent Stagnation]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/wp/wp4-CBS/" />
+  <id>http://localhost:4000/wp/wp4-CBS</id>
+  <published>2018-08-14T23:18:40-05:00</published>
+  <updated>2018-08-14T23:18:40-05:00</updated>
+  <author>
+    <name>Pablo Cuba-Borda</name>
+    <uri>http://localhost:4000</uri>
+    <email>pablo.a.cubaborda[at]frb.gov</email>
+  </author>
+  <content type="html">
+    &lt;h4 id=&quot;with-sanjay-r-singh-uc-davis&quot;&gt;With &lt;a href=&quot;https://sites.google.com/a/brown.edu/sanjaysingh/&quot;&gt;Sanjay R. Singh (UC Davis)&lt;/a&gt;&lt;/h4&gt;
+&lt;p style=&quot;text-align:justify&quot; class=&quot;text-justify&quot;&gt;
+We theoretically explore long-run stagnation at the zero lower bound in a representative agent framework. We analytically compare expectations-driven stagnation to a secular stagnation episode and find contrasting policy implications for changes in government spending, supply shocks and neo-Fisherian policies. On the other hand, a minimum wage policy is expansionary and robust to the source of stagnation. Using Bayesian methods, we estimate a DSGE model that can accommodate two competing hypotheses of long-run stagnation in Japan. We document that equilibrium selection under indeterminacy matters in accounting for model fit.&lt;/p&gt;
+
+&lt;p class=&quot;notice&quot;&gt;Link to &lt;a href=&quot;/documents/Draft_EFStag_CS.pdf&quot;&gt;local copy&lt;/a&gt;. First version: August 2018. This version: February 2019.&lt;br /&gt;Link to &lt;a href=&quot;https://doi.org/10.17016/IFDP.2019.1243&quot;&gt;International Finance Discussion Papers 1243&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/wp/wp4-CBS/&quot;&gt;Understanding Persistent Stagnation&lt;/a&gt; was originally published by Pablo Cuba-Borda at &lt;a href=&quot;http://localhost:4000&quot;&gt;Personal Website&lt;/a&gt; on August 15, 2018.&lt;/p&gt;
   </content>
 </entry>
 
@@ -64,12 +88,12 @@ Applied researchers often need to estimate key parameters of DSGE models. Except
   <title type="html"><![CDATA[Macroeconomic Dynamics Near the ZLB: A Tale of Two Countries]]></title>
   <link rel="alternate" type="text/html" href="http://localhost:4000/published/published-acs/" />
   <id>http://localhost:4000/published/published-acs</id>
-  <published>2017-03-22T15:18:40-04:00</published>
-  <updated>2017-03-22T15:18:40-04:00</updated>
+  <published>2017-03-22T14:18:40-05:00</published>
+  <updated>2017-03-22T14:18:40-05:00</updated>
   <author>
     <name>Pablo Cuba-Borda</name>
     <uri>http://localhost:4000</uri>
-    <email>pablo.a.cubaborda@frb.gov</email>
+    <email>pablo.a.cubaborda[at]frb.gov</email>
   </author>
   <content type="html">
     &lt;h4 id=&quot;with-borağan-aruoba-maryland-and-frank-schorfheide-upenn&quot;&gt;With &lt;a href=&quot;http://aruoba.econ.umd.edu/&quot;&gt;Borağan Aruoba (Maryland)&lt;/a&gt; and &lt;a href=&quot;http://sites.sas.upenn.edu/schorf&quot;&gt;Frank Schorfheide (UPenn)&lt;/a&gt;&lt;/h4&gt;
@@ -90,12 +114,12 @@ Replication &lt;a href=&quot;https://github.com/pcuba/ACS_RESTUD_2017&quot;&gt;c
   <title type="html"><![CDATA[What Explains the Great Recession and Slow Recovery?]]></title>
   <link rel="alternate" type="text/html" href="http://localhost:4000/wp/wp2-JMP/" />
   <id>http://localhost:4000/wp/wp2-JMP</id>
-  <published>2015-06-14T15:18:40-04:00</published>
-  <updated>2015-06-14T15:18:40-04:00</updated>
+  <published>2015-06-14T14:18:40-05:00</published>
+  <updated>2015-06-14T14:18:40-05:00</updated>
   <author>
     <name>Pablo Cuba-Borda</name>
     <uri>http://localhost:4000</uri>
-    <email>pablo.a.cubaborda@frb.gov</email>
+    <email>pablo.a.cubaborda[at]frb.gov</email>
   </author>
   <content type="html">
     &lt;p style=&quot;text-align:justify&quot;&gt;

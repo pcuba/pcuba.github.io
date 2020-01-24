@@ -2,13 +2,13 @@
 layout: post
 title: Likelihood Evaluation of Models with Occasionally Binding Constraints
 modified:
-categories: wp
-excerpt: Joint with <a href="http://lguerrieri.com"> Luca Guerrieri (FRB)</a>, <a href="https://www2.bc.edu/matteo-iacoviello/"> Matteo Iacoviello (FRB)</a> and <a href="https://sites.google.com/site/molinzhong/"> Molin Zhong (FRB)</a>. <i>This version&#58 December 2017</i>
+categories: published
+excerpt: Joint with <a href="http://lguerrieri.com"> Luca Guerrieri (FRB)</a>, <a href="https://www2.bc.edu/matteo-iacoviello/"> Matteo Iacoviello (FRB)</a> and <a href="https://sites.google.com/site/molinzhong/"> Molin Zhong (FRB)</a>. <i>Journal of Applied Econometrics, 34 (7), December 2019.</i>
 tags: []
 link:
 image:
   feature: sample-image-line.jpg
-date: 2018-02-10T00:18:40-04:00
+date: 2019-03-10T00:18:40-04:00
 ---
 #### With [Luca Guerrieri (FRB)](http://lguerrieri.com), [Matteo Iacoviello (FRB)](https://www2.bc.edu/matteo-iacoviello/) and [Molin Zhong (FRB)](https://sites.google.com/site/molinzhong/)
 
