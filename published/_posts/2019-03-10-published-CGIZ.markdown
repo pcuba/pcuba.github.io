@@ -16,5 +16,5 @@ date: 2019-03-10T00:18:40-04:00
 Applied researchers often need to estimate key parameters of DSGE models. Except in a handful of special cases, both the solution and the estimation step will require the use of numerical approximation techniques that introduce additional sources of error between the “true” value of the parameter and its actual estimate. In this paper, we focus on likelihood evaluation of models with occasionally binding constraints. We highlight how solution approximation errors and errors in specifying the likelihood function interact in ways that can compound each other.</p>
 {: .text-justify}
 
-Link to [local copy](/documents/cuba-borda-guerrieri.pdf) version. First version: December 2017.
+Link to [published version](https://doi.org/10.1002/jae.2729). Link to [local copy](/documents/CGIZ-final.pdf) version. This version: April 2019. First version: December 2017.
 {: .notice}
