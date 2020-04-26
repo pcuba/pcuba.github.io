@@ -16,5 +16,5 @@ date: 2020-01-15T00:18:40-04:00
 </p>
 {: .text-justify}
 
-Link to [local copy](/documents/Draft_EFStag_CS.pdf). This version: April 2020 (This paper replaces a previous version circulated with the title “Understanding Persistent Stagnation”).<br>
+Link to [local copy](/documents/Draft_EFStag_CS.pdf). This version: April 2020 (This paper replaces a previous version circulated with the title [“Understanding Persistent Stagnation”](/documents/Draft_EFStag_CS_old.pdf)).<br>
 {: .notice}
