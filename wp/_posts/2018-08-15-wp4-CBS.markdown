@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Understanding Persistent Stagnation
+title: Understanding Persistent ZLB: Theory and Assesment
 modified:
 categories: wp
-excerpt: Joint with <a href="https://sites.google.com/a/brown.edu/sanjaysingh/"> Sanjay R. Singh (UC Davis)</a>. <br><i>This version&#58 February 2019</i>
+excerpt: Joint with <a href="https://sites.google.com/a/brown.edu/sanjaysingh/"> Sanjay R. Singh (UC Davis)</a>. <br><i>This version&#58 January 2020</i>
 tags: []
 link:
 image:
   feature: sample-image-line.jpg
-date: 2018-08-15T00:18:40-04:00
+date: 2020-04-01T00:18:40-04:00
 ---
 #### With [Sanjay R. Singh (UC Davis)](https://sites.google.com/a/brown.edu/sanjaysingh/)
 <p style="text-align:justify">
-We theoretically explore long-run stagnation at the zero lower bound in a representative agent framework. We analytically compare expectations-driven stagnation to a secular stagnation episode and find contrasting policy implications for changes in government spending, supply shocks and neo-Fisherian policies. On the other hand, a minimum wage policy is expansionary and robust to the source of stagnation. Using Bayesian methods, we estimate a DSGE model that can accommodate two competing hypotheses of long-run stagnation in Japan. We document that equilibrium selection under indeterminacy matters in accounting for model fit.</p>
+Concerns of prolonged near zero interest rates and below target inflation have become widespread in the advanced world. We build an analytical framework that incorporates two hypotheses of persistent ZLB episodes: expectations-driven liquidity traps and secular stagnation driven liquidity traps. We estimate the DSGE model with Japanese data from 1998:Q1 to 2012:Q4. Using Bayesian prediction pools, we find that a policymaker faces considerable real-time un- certainty in identifying the dominant narrative. We propose robust policies that eliminate expectations-driven traps and are expansionary under secular stagnation.</p>
 {: .text-justify}
 
-Link to [local copy](/documents/Draft_EFStag_CS.pdf). First version: August 2018. This version: February 2019.<br>Link to [International Finance Discussion Papers 1243](https://doi.org/10.17016/IFDP.2019.1243).
+Link to [local copy](/documents/Draft_EFStag_CS.pdf). This version: April 2020 (This paper replaces a previous version circulated with the title “Understanding Persistent Stagnation”).
 {: .notice}
