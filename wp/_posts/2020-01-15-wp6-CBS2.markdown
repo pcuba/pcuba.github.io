@@ -10,7 +10,7 @@ image:
   feature: sample-image-line.jpg
 date: 2020-01-15T00:18:40-04:00
 ---
-#### With [Bora&#x11F;an Aruoba (Maryland)](http://aruoba.econ.umd.edu/), Kenji Higa-Flores (Maryland), [Frank Schorfheide (UPenn)](http://sites.sas.upenn.edu/schorf) and Sergio Villalvazo (UPenn).
+#### With [Sanjay R. Singh (UC Davis)](https://sites.google.com/a/brown.edu/sanjaysingh/)
 
 <p style="text-align:justify">Concerns of prolonged near zero interest rates and below target inflation have become widespread in the advanced world. We build an analytical framework that incorporates two hypotheses of persistent ZLB episodes: expectations-driven liquidity traps and secular stagnation driven liquidity traps. We estimate the DSGE model with Japanese data from 1998:Q1 to 2012:Q4. Using Bayesian prediction pools, we find that a policymaker faces considerable real-time uncertainty in identifying the dominant narrative. We propose robust policies that eliminate expectations-driven traps and are expansionary under secular stagnation. 
 </p>
