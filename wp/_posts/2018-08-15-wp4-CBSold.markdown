@@ -15,5 +15,5 @@ date: 2018-08-15T00:18:40-04:00
 We theoretically explore long-run stagnation at the zero lower bound in a representative agent framework. We analytically compare expectations-driven stagnation to a secular stagnation episode and find contrasting policy implications for changes in government spending, supply shocks and neo-Fisherian policies. On the other hand, a minimum wage policy is expansionary and robust to the source of stagnation. Using Bayesian methods, we estimate a DSGE model that can accommodate two competing hypotheses of long-run stagnation in Japan. We document that equilibrium selection under indeterminacy matters in accounting for model fit.</p>
 {: .text-justify}
 
-Link to [local copy](/documents/Draft_EFStag_CS.pdf). First version: August 2018. This version: February 2019.<br>Link to [International Finance Discussion Papers 1243](https://doi.org/10.17016/IFDP.2019.1243).
+Link to [local copy](/documents/Draft_EFStag_CS_old.pdf). First version: August 2018. This version: February 2019.<br>Link to [International Finance Discussion Papers 1243](https://doi.org/10.17016/IFDP.2019.1243).
 {: .notice}
