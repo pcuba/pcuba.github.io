@@ -3,7 +3,7 @@ layout: post
 title: 'Understanding Persistent ZLB: Theory and Assesment'
 modified:
 categories: wp
-excerpt: Joint with <a href="http://aruoba.econ.umd.edu"> Bora&#x11F;an Aruoba (Maryland)</a>, Kenji Higa-Flores (Maryland), <a href="http://sites.sas.upenn.edu/schorf">Frank Schorfheide (UPenn)</a> and Sergio Villalvazo (UPenn). <br> <i>This version&#58 January 2020</i>
+excerpt: Joint with <a href="https://sites.google.com/a/brown.edu/sanjaysingh/"> Sanjay R. Singh (UC Davis)</a>. <br><i>This version&#58 April 2020</i>
 tags: []
 link:
 image:
