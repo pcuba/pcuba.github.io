@@ -1,0 +1,20 @@
+---
+layout: post
+title: 'Understanding Growth at Risk: A Markov Switching Approach'
+modified:
+categories: wp
+excerpt: Joint with <a href="https://sites.google.com/view/dariocaldara"> Dario Caldara (FRB)</a>, <a href="https://sites.google.com/site/cascaldigarcia/"> Danilo Cascaldi-Garcia (FRB)</a> and <a href="https://francescaloria.wixsite.com"> Francesca Loria (FRB)</a>. <br><i>This version&#58 October 2020</i>
+tags: []
+link:
+image:
+  feature: sample-image-line.jpg
+date: 2020-10-01T00:18:40-04:00
+---
+#### With [Dario Caldara (FRB)](https://sites.google.com/view/dariocaldara), [Danilo Cascaldi-Garcia (FRB)](https://sites.google.com/site/cascaldigarcia/) and [Francesca Loria (FRB)](https://francescaloria.wixsite.com)
+
+<p style="text-align:justify">Both financial and macroeconomic conditions matter for downside risks to the economic outlook. In this paper, we show that the deterioration of the financial and real sides dramatically increase the probability of tail risks of large negative growth over the next year. We propose a real-time measure of financial conditions and economic activity for the United States, and use these measures to construct conditional quantiles and predictive distributions of average GDP growth over the next 12 months. We find that periods of high macro and financial distress, such as the Global Financial Crisis and the COVID-19 pandemic, are associated with a low average future growth, high uncertainty, and risks tilted to the downside. This methodology is a powerful tool to assess the risk of tail events, such as recessions, and to evaluate the likelihood of point forecasts.
+</p>
+{: .text-justify}
+
+ This version: October 2020 (New version coming soon).
+{: .notice}
