@@ -17,7 +17,7 @@ We develop an algorithm to construct approximate decision rules that are piecewi
 {: .text-justify}
 
 Link to [paper](https://doi.org/10.1016/j.red.2020.12.003).
-Link to [local copy](/documents/ACS-PLC-v5.pdf).
+Link to [local copy](/documents/ACS-PLC-v9.pdf).
 Replication [code](https://github.com/pcuba/RED-PLC-Estimation)
 <br>
 {: .notice}
