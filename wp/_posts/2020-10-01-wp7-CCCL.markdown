@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Understanding Growth at Risk: A Markov Switching Approach'
+title: 'Understanding Growth at Risk: A Markov-Switching Approach'
 modified:
 categories: wp
 excerpt: Joint with <a href="https://sites.google.com/view/dariocaldara"> Dario Caldara (FRB)</a>, <a href="https://sites.google.com/site/cascaldigarcia/"> Danilo Cascaldi-Garcia (FRB)</a> and <a href="https://francescaloria.wixsite.com"> Francesca Loria (FRB)</a>. <br><i>This version&#58 October 2020</i>
